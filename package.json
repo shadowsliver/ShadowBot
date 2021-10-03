@@ -1,3 +1,28 @@
 {
-    "main": "index.js"
+  "main": "index.js",
+  "name": "ShadowBot",
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowsliver/ShadowBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowsliver/ShadowBot/issues"
+  },
+  "homepage": "https://github.com/shadowsliver/ShadowBot#readme"
 }
